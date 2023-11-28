@@ -1,0 +1,13 @@
+name = "Testing Pack"
+author = "Dartis"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f81f360ee2f8851d6aa00977e28c16237bc641b6d20daa9c47e046094287c3bd"
+
+[versions]
+forge = "14.23.5.2860"
+minecraft = "1.12.2"
